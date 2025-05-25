@@ -30,7 +30,7 @@ public class ViewDosen extends JFrame{
     ControllerDosen controller;
 
     // Menginisiasi komponen
-    JLabel header = new JLabel("Selamat Datang! PRIA TAMPAN");
+    JLabel header = new JLabel("Selamat Datang, nume :> ");
     JButton tombolTambah = new JButton("Tambah Dosen");
     JButton tombolEdit = new JButton("Edit Dosen");
     JButton tombolHapus = new JButton("Hapus Dosen");

@@ -29,7 +29,7 @@ public class ViewMahasiswa extends JFrame{
     ControllerMahasiswa controller;
 
     // Menginisiasi komponen
-    JLabel header = new JLabel("Selamat Datang! WANITA CANTIK");
+    JLabel header = new JLabel("Selamat Datang, nume :>");
     JButton tombolTambah = new JButton("Tambah Mahasiswa");
     JButton tombolEdit = new JButton("Edit Mahasiswa");
     JButton tombolHapus = new JButton("Hapus Mahasiswa");
